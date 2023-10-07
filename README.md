@@ -1,10 +1,11 @@
 <p align="center">
-  <h1>Dharun Kumar</h1>
-  <h2>Software Enginner<h2>
-  <b>A software engineer who loves building products.</b><br> <br>
-  <a href="https://www.linkedin.com/dharunkumardev/" target="_blank">LinkedIn</a> |
-   <a href="https://github.com/dharunkumardev/" target="_blank">Github</a> 
-  <br><br>
+<b>Dharun Kumar</b>
+<b>A software engineer who loves building products.</b><br> <br>
+<a href="https://www.linkedin.com/dharunkumardev/" target="_blank">LinkedIn</a> |
+<a href="https://github.com/dharunkumardev/" target="_blank">Github</a>
+<a href="https://timely-kheer-9c75b4.netlify.app/" target="_blank">Blog</a>
+<br><br>
+
 </p>
 
 <!--

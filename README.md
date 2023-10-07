@@ -1,6 +1,10 @@
 <p align="center">
+<div>
 <b>Dharun Kumar</b>
+</div>
+<div>
 <b>A software engineer who loves building products.</b><br> <br>
+</div>
 <a href="https://www.linkedin.com/dharunkumardev/" target="_blank">LinkedIn</a> |
 <a href="https://github.com/dharunkumardev/" target="_blank">Github</a>
 <a href="https://timely-kheer-9c75b4.netlify.app/" target="_blank">Blog</a>
